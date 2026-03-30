@@ -48,8 +48,6 @@ GET: Fetch all the issued books
 GET: Fetch the issued books with fine
 
 
-
-
 ## npm init
 ## npm i nodemon --save-dev
 ## npm run dev
