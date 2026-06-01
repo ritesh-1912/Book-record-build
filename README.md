@@ -61,4 +61,4 @@ MVC Arch Controllers
 >> books.controllers.js
 >> users.controllers.js
 
-This project is made by following the Devtown Internship Course.
+This project is made by following the Devtown Self Paced Internship Course.
