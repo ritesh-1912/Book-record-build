@@ -52,7 +52,6 @@ GET: Fetch the issued books with fine
 ## npm i nodemon --save-dev
 ## npm run dev
 
-
 MVC Arch Controllers
 >> M: Model (structure of MongoDB)
 >> V: View (Front End Manager (react.js))
