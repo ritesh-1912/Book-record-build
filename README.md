@@ -6,7 +6,6 @@ Server  >> Storing Book Data
         >> User Registration
         >> Subscription Model
 
-
 # Routes and EndPoints
 
 ## /users
